@@ -3,6 +3,8 @@
 
 IN THIS APP YOU WILL ABLE TO SEE YOUR FAV. shoes  AND also you can see that which size of shoe number is available.
 
+you also have the option of HOT , SELLING , PRE-SALE
+
 sample output : -
 
 ![Screenshot 2021-07-14 at 10 29 08 PM](https://user-images.githubusercontent.com/84556881/125663026-e109722a-a20d-4741-9609-34366c5d7c25.png)
